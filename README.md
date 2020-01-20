@@ -1,4 +1,4 @@
-# TrendsMarketplace2019
+# Model Performance Decay
 ## Stay Tuned With Your Model
 
 The data science world as we know is obsessed with building most innovative and effective predict models and once it is built thats the end of the story. But it is just half the predictve life cycle there is another side to it, a very important one, the model deployment and monitoring which is very less talked about or discussed.
